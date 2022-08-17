@@ -2,10 +2,10 @@
   "name": "v2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Mohamad Amir <moe62197@gmail.com>",
+  "author": "Mohamad Amir Hussein <moe62197@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okaymoe"
+    "url": "https://github.com/okaymoe/MoesWebsite.git"
   },
   "keywords": [
     "gatsby"

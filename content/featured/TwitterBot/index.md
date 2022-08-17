@@ -1,14 +1,16 @@
 ---
 date: '2'
-title: 'GirlScript Twitter Bot'
-cover: 'bot.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+title: 'moesbnb'
+cover: 'mbb.PNG'
+github: 'https://github.com/okaymoe/moesbnb-v2'
+external: 'https://moesbnb-v2.herokuapp.com/'
 tech:
-  - Python
-  - tweepy
-  - Twitter API
+  - Node.js
+  - Express
+  - React + Redux
+  - Sequelize
+  - SQL
 showInProjects: true
 ---
 
-A Twitter Bot for [GirlScript Foundation](https://www.girlscript.tech/) that automatically retweets, favourites the tweets and follows the users who tweet with hashtag #girlscript. Checkout my tech blog on how to create it [HERE](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
+The functionality and essence similarly mimics airbnb. With moesbnb, users are able to create Spots and host their homes, apartments, etc. Users can also view other host's spots and book them. After a spot has been created, users may leave a review of the spot, which can be deleted if the user wishes.

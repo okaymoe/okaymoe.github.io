@@ -1,16 +1,17 @@
 ---
 date: '1'
-title: 'Caim Consulting'
-cover: 'demo1.png'
-github: 'https://github.com/caimconsulting/caim-consulting-website'
-external: 'https://caimconsulting.in/'
+title: 'PokéCupid'
+cover: 'okc.PNG'
+github: 'https://github.com/jngriedel/PokeCupid'
+external: 'https://pokecupid-aa.herokuapp.com/'
 tech:
-  - HTML
-  - CSS
-  - Javascript
-  - Bootstrap
+  - Python
+  - Flask
+  - Node.js
+  - React + Redux
+  - PostgreSQL
 
 showInProjects: true
 ---
 
-Collaborated with the [Developer Team](https://caimconsulting.in/developers/?) to develop the front-end and deploy the website on Heroku for a pro-bono legal startup [Caim Consulting](https://caimconsulting.in/).
+A principal clone of okcupid. With PokéCupid, users are able to create an account and connect to other users for multitudes of purposes, some including finding a significant other, 'training partners', or simply friends! Created with 3 other lovely team members, Niels Griedel, Connor Burns, & Matilda Zhang.
