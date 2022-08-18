@@ -4,7 +4,7 @@ module.exports = {
     'Mohamad Amir is a Software Developer who is currently unemployed, loves learning new things, and helping tech beginners.',
   siteKeywords:
     'Mohamad Amir, Mohamad, Amir, okaymoe, gomoe, software developer, software engineer, content freelancer, web developer, java developer, pepper content, jamshedpur',
-  siteUrl: 'https://mohamadamir.com/',
+  siteUrl: 'https://okaymoe.github.io/MoesWebsite/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
