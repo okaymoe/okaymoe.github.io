@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohamadamir.com/sitemap/sitemap-index.xml
+Host: https://mohamadamir.com
