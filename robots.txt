@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mohamadamir.com/sitemap/sitemap-index.xml
-Host: https://mohamadamir.com
+Sitemap: https://okaymoe.github.io/sitemap/sitemap-index.xml
+Host: https://okaymoe.github.io
