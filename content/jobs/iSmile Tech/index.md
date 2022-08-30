@@ -1,7 +1,7 @@
 ---
 date: '2020-07-15'
-title: 'Entrepreneur'
-company: 'Entrepreneur'
+title: 'Social Media Consultant'
+company: 'Freelance'
 range: 'February 2019 - Present'
 ---
 
