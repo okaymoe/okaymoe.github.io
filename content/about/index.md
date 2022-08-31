@@ -22,6 +22,6 @@ Pioneering through the early stages of Social Media, in just three years, I've a
 
 My interest in the tech industry stems from my early childhood. Knowing how to navigate a computer and the internet at age four, I was practically raised by technology. It fascinates me how much technological advancements we've made in the last two decades alone, and I want to be an engineer that stresses the capabilities technology still has in store!
 
-I'm currently in search of my first Junior Developer role.
+I'm currently in search of my first Full-Stack Developer role.
 
 Here is a list of the technologies that I'm familiar with!
