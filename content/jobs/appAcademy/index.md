@@ -6,7 +6,7 @@ range: 'February 2022 - August 2022'
 url: 'https://www.appacademy.io/'
 ---
 
-- Over 1060 hours of lectures, OOP, Paired-Programming, & studies.
+- Over 1000 hours of OOP, Paired-Programming, lectures, & studies.
 - Cross Browser Testing & Debugging
 - Cross Functional Teams
 - Agile Development & Scrum
