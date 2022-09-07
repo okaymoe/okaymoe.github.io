@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.https://www.linkedin.com/in/mohamadamirhussein/',
+      url: 'https://www.linkedin.com/in/mohamadamirhussein/',
     },
     {
       name: 'Instagram',
