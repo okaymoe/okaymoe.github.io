@@ -1,11 +1,12 @@
 ---
-date: '2018-05-10'
-title: 'Model / Talent'
-company: 'LA Models'
-range: 'July 2015 - September 2017'
-url: 'https://www.lamodels.com/'
+date: '2022-02-14'
+title: 'Student'
+company: 'App Academy'
+range: 'December 2021 - May 2022'
+url: 'https://www.appacademy.io/'
 ---
 
-- Shot for many editorial, commercial, and global media companies.
-- Some companies I've been contracted by: [Levi's](https://www.levi.com/US/en_US/), [Timex](https://www.timex.com/), & [Tele2](https://www.tele2.com/).
-
+- Over 1000 hours of OOP, Paired-Programming, lectures, & studies.
+- Cross Browser Testing & Debugging
+- Cross Functional Teams
+- Agile Development & Scrum 

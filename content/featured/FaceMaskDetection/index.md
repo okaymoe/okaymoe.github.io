@@ -1,16 +1,15 @@
 ---
 date: '3'
-title: 'Critter'
+title: 'Mr. Experience'
 cover: 'critter.PNG'
-github: 'https://github.com/okaymoe/critter'
-external: 'https://critter-aa.herokuapp.com/'
+external: 'https://mrxp.com/'
 tech:
-  - Python
-  - Flask
-  - Node.js
-  - React + Redux
-  - PostgreSQl
+  - NextJS
+  - Express.js
+  - AWS
+  - PostgreSQL
+  - GCP
 showInProjects: true
 ---
 
-Critter is a Twitter-based clone, where creatures of all kinds come to interact with one-another. Critters can post their thoughts, follow other critters, and much more!
+Find trusted home service experts at Mr. Experience - From repairs to remodels, connect with experienced local professionals dedicated to improving homes and building stronger communities.

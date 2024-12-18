@@ -1,16 +1,14 @@
 ---
 date: '2'
-title: 'moesbnb'
+title: 'Volonte'
 cover: 'mbb.PNG'
-github: 'https://github.com/okaymoe/moesbnb-v2'
-external: 'https://moesbnb-v2.herokuapp.com/'
+external: 'https://volonte.co/'
 tech:
-  - Node.js
-  - Express
-  - React + Redux
-  - Sequelize
-  - SQL
+  - Angular
+  - PostgreSQL
+  - Strapi
+  - Express.js
 showInProjects: true
 ---
 
-The functionality and essence similarly mimics airbnb. With moesbnb, users are able to create Spots and host their homes, apartments, etc. Users can also view other host's spots and book them. After a spot has been created, users may leave a review of the spot, which can be deleted if the user wishes.
+Volonte's Enterprise Change Management (ECM) platform helps teams adopt, execute, and measure change progress in real-time.
