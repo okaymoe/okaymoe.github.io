@@ -2,7 +2,7 @@
 date: '2022-02-14'
 title: 'Internship'
 company: 'Theia Scientific'
-range: 'December 2021 - May 2022'
+range: 'June 2022 - July 2022'
 url: 'https://www.theiascientific.com/'
 ---
 
