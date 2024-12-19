@@ -10,4 +10,4 @@ url: 'https://www.mrxp.com/'
  - Created complex algorithms for location and role based search queries.
  - Integrated Stripe and Auth0 for secure, scalable subscriptions and authentication.
  - Designed an advanced CMS integration using Strapi for SEO-optimized content.
- - Streamlined backend architecture with efficient PostgreSQL queries, enabling quick, scalable data retrieval. 
+ - Streamlined backend architecture with efficient PostgreSQL queries, enabling quick, scalable data retrieval.
