@@ -5,7 +5,7 @@ github: 'https://github.com/chandrikadeb7/Covid-19-HelpDesk'
 external: 'https://www.youtube.com/watch?v=s9ivtzkpK6w&feature=youtu.be'
 tech:
   - PHP
-  - Javascript
+  - Javascripta
   - TSQL
   - HTML
   - CSS
