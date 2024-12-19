@@ -1,7 +1,7 @@
 ---
 title: 'Hello World! My name is'
 name: 'Mohamad Amir'
-buttonText: 'Contact Me'
+buttonText: 'Email Me'
 ---
 
 I'm an American based software engineer with a goal-driven creative mindset and passion for learning and innovating.
