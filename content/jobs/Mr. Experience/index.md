@@ -6,8 +6,8 @@ range: 'December 2023 - Present'
 url: 'https://www.mrxp.com/'
 ---
 
- - Led development of a full-stack application, optimizing for speed, scalability, and seamless CI/CD.
- - Created complex algorithms for location and role based search queries.
- - Integrated Stripe and Auth0 for secure, scalable subscriptions and authentication.
- - Designed an advanced CMS integration using Strapi for SEO-optimized content.
- - Streamlined backend architecture with efficient PostgreSQL queries, enabling quick, scalable data retrieval.
+ - Solely developed a full-stack application leveraging Next.js on the frontend paired with Node.js with Express for backend services, incorporating robust CI/CD pipelines to ensure speed and scalability.
+ - Implemented an ORM layer (using Sequelize) to abstract and manage complex PostgreSQL interactions, resulting in maintainable code architecture, efficient query execution, and robust data integrity.
+ -  Designed and implemented an innovative hybrid search algorithm that combined advanced spatial indexing (using geohashing) with dynamic role-based ranking heuristics, delivering hyper-relevant and fast query results via Express-based RESTful APIs.
+ - Integrated Stripe for subscription billing and Auth0 for secure authentication within an Express framework, enhancing both security and scalability.
+ - Developed an advanced CMS integration using Strapi to streamline content management and optimize SEO performance.
